@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "red-black-brush-stroke-banner-background-perfect-canva_1361-3597.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "red-black-brush-stroke-banner-background-perfect-canva_1361-3597@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "red-black-brush-stroke-banner-background-perfect-canva_1361-3597@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
